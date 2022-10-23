@@ -40,7 +40,7 @@ if($id_pelanggan_beli != $id_pelanggan_login){
       <div class="col-md-8">
         <div class="alert alert-info">total tagihan anda <strong>Rp. <?= number_format($detpem['total_pembelian']); ?>,-</strong></div>
          <div class="alert alert-info">
-            Silahkan lakukan pembayaran ke <strong>BANK MANDIRI 123-111-111 AN Asal Koding</strong>
+            Silahkan lakukan pembayaran ke <strong>BANK CIMB 085771535764 Mochamad Iqsal Alfiansyah</strong>
         </div>
         <form action="" method="post" enctype="multipart/form-data">
           <div class="form-group">
